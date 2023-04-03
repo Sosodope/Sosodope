@@ -1,2 +1,2 @@
 # Hey 👋
-Frontend developer from Bhutan, living in Thailand.
+Frontend developer from Bhutan.
